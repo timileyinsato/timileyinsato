@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timileyinsato
 - 👀 I’m interested in all things tech, science, art, and beyond!.
-- 🌱 I’m currently learning front end web development, and data science and analytics.
+- 🌱 I’m a Fullstack web developer.
 - 💞️ I’m looking to collaborate on all types of projects open to collaborations.
 - 📫 How to reach me (email- Oyewaleoluwatimileyin@gmail.com )
 
